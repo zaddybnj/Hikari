@@ -1,0 +1,3 @@
+# Standalone HTML. Netlify publishes this repository root and does not run a build.
+[build]
+  publish = "."
