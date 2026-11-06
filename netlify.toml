@@ -1,3 +1,14 @@
 # Standalone HTML. Netlify publishes this repository root and does not run a build.
 [build]
   publish = "."
+
+# Either public path reaches the packages page. /packages/ is canonical.
+[[redirects]]
+  from = "/services"
+  to = "/packages/"
+  status = 301
+
+[[redirects]]
+  from = "/services/"
+  to = "/packages/"
+  status = 301
