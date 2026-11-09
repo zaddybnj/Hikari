@@ -1,6 +1,6 @@
 # Hikari Co
 
-Static site for Hikari Co, founded by Benjamin Armstrong. The studio offers websites and Meta ads for Tulsa family-activity businesses.
+Static site for Hikari Co, founded by Benjamin Armstrong. The studio offers websites and Meta ads for local businesses.
 
 There is no package manager and no build step. Netlify publishes the repository root as-is.
 
