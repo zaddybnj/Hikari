@@ -1,6 +1,6 @@
-# Hikari Co
+# Migaki Co
 
-Static site for Hikari Co, founded by Benjamin Armstrong. The studio offers websites and Meta ads for local businesses.
+Static site for Migaki Co, founded by Benjamin Armstrong. The studio offers websites and Meta ads for local businesses. The GitHub repository and Netlify project names are unchanged.
 
 There is no package manager and no build step. Netlify publishes the repository root as-is.
 

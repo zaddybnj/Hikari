@@ -1,4 +1,4 @@
-/* Hikari Co — static studio site. Restrained type, paper, and ink. */
+/* Migaki Co — static studio site. Restrained type, paper, and ink. */
 
 :root {
   --paper: #f3f0ea;
@@ -496,6 +496,12 @@ h3 {
   color: var(--ink);
   font-size: 1.35rem;
   letter-spacing: -0.03em;
+}
+
+.footer-grid .footer-meaning {
+  margin: 6px 0 0;
+  color: var(--mute);
+  font-size: 0.9rem;
 }
 
 .sr-only {
