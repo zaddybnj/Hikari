@@ -7,7 +7,7 @@ There is no package manager and no build step. Netlify publishes the repository 
 ## Pages
 
 - `/` — studio homepage: positioning, web design and Meta ads, concept work, approach, and a contact call to action. No prices are published.
-- `/packages/` — the package scope and a custom-quote call to action. No prices are published.
+- `/packages/` — a project plus a monthly retainer, the scope, and a custom-quote call to action. No prices are published.
 - `/contact/` — how to request a free homepage mock. Email and phone are not listed.
 - `/services` and `/services/` — Netlify redirects these to `/packages/`. The local static server does not apply that redirect.
 
